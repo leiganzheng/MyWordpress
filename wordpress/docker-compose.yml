@@ -1,0 +1,22 @@
+db:
+  image: mariadb
+  environment:
+    MYSQL_ROOT_PASSWORD: 123456
+    MYSQL_ALLOW_EMPTY_PASSWORD: 'yes'
+  # volumes:
+  #   - ./db:/var/lib/mysql
+  #
+wordpress:
+  image: wordpress:fpm
+  links:
+    - db:mysql
+  volumes:
+    - ./web:/var/www/html
+nginx:
+  build: ./nginx/
+  ports:
+    - "8080:80"
+  volumes_from:
+    - wordpress
+  links:
+    - wordpress

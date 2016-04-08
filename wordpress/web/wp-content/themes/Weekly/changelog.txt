@@ -1,0 +1,22 @@
+*** Weekly Changelog ***
+
+
+2011.02.24 - version 1.0.5
+ * functions/theme-options.php - fixed a bug for WP 3.1 compatibility
+ 
+2010.10.08 - version 1.0.4
+ * comments.php - Fixed a bug of localized expression
+ 
+2010.07.03 - version 1.0.3
+ * includes/jquery.cookie.js - Changed jquery.cookie.js to jcookie.js to avoid the mod_security rule in some hosts
+ * functions.php - Changed jquery.cookie.js to jcookie.js 
+
+2010.07.01 - version 1.0.2
+ * includes/home-featured.php - Fixed the "Read more" link
+
+2010.06.29 - version 1.0.1
+ * includes/home-latest.php - Changed numeric post count to post date
+ * style.css - Fixed border color of comment form. Added style for latest news date
+
+2010.06.28 - version 1.0
+ * First release!
