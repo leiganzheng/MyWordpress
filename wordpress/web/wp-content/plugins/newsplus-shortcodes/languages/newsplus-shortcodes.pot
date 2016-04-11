@@ -1,0 +1,439 @@
+# Copyright (C) 2016 NewsPlus Shortcodes
+# This file is distributed under the same license as the NewsPlus Shortcodes package.
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsPlus Shortcodes 2.4.0\n"
+"POT-Creation-Date: 2016-04-07 10:28:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: shortcodes/shortcodes.php:326 shortcodes/shortcodes.php:533
+#: shortcodes/shortcodes.php:773
+msgid "Prev"
+msgstr ""
+
+#: shortcodes/shortcodes.php:327 shortcodes/shortcodes.php:534
+#: shortcodes/shortcodes.php:774
+msgid "Next"
+msgstr ""
+
+#: shortcodes/shortcodes.php:575 shortcodes/shortcodes.php:822
+#: shortcodes/shortcodes.php:1093 shortcodes/shortcodes.php:1411
+#: widgets/widget-popular-posts.php:79 widgets/widget-recent-posts.php:78
+msgid " Comments"
+msgstr ""
+
+#: shortcodes/shortcodes.php:577 shortcodes/shortcodes.php:824
+#: shortcodes/shortcodes.php:1095 shortcodes/shortcodes.php:1413
+#: widgets/widget-popular-posts.php:81 widgets/widget-recent-posts.php:80
+msgid "1 Comment"
+msgstr ""
+
+#: shortcodes/shortcodes.php:579 shortcodes/shortcodes.php:826
+#: shortcodes/shortcodes.php:1097 shortcodes/shortcodes.php:1415
+#: widgets/widget-popular-posts.php:83 widgets/widget-recent-posts.php:82
+msgid "<span class=\"sep comment-sep\"></span><a href=\"%1$s\" class=\"post-comment\" title=\"Comment on %3$s\">%2$s</a>"
+msgstr ""
+
+#: shortcodes/shortcodes.php:1545
+msgid "Breaking News"
+msgstr ""
+
+#: widgets/widget-categories.php:11
+msgid "Display a custom list of categories using exclude option."
+msgstr ""
+
+#: widgets/widget-categories.php:13
+msgid "NewsPlus Categories"
+msgstr ""
+
+#: widgets/widget-categories.php:17
+msgid "Categories"
+msgstr ""
+
+#: widgets/widget-categories.php:32
+msgid "Select Category"
+msgstr ""
+
+#: widgets/widget-categories.php:74 widgets/widget-flickr.php:114
+#: widgets/widget-minifolio.php:105 widgets/widget-popular-posts.php:157
+#: widgets/widget-recent-posts.php:156 widgets/widget-social-links.php:226
+msgid "Title:"
+msgstr ""
+
+#: widgets/widget-categories.php:76
+msgid "Exclude:"
+msgstr ""
+
+#: widgets/widget-categories.php:79
+msgid "Category IDs, separated by commas."
+msgstr ""
+
+#: widgets/widget-categories.php:82
+msgid "Display as dropdown"
+msgstr ""
+
+#: widgets/widget-categories.php:85
+msgid "Show post counts"
+msgstr ""
+
+#: widgets/widget-categories.php:88
+msgid "Show hierarchy"
+msgstr ""
+
+#: widgets/widget-flickr.php:11
+msgid "Display your flickr photostream."
+msgstr ""
+
+#: widgets/widget-flickr.php:13
+msgid "NewsPlus Flickr"
+msgstr ""
+
+#: widgets/widget-flickr.php:18
+msgid "NewsPlus Flickr Widget"
+msgstr ""
+
+#: widgets/widget-flickr.php:116
+msgid "Source:"
+msgstr ""
+
+#: widgets/widget-flickr.php:118
+msgid "User"
+msgstr ""
+
+#: widgets/widget-flickr.php:119
+msgid "User Tag"
+msgstr ""
+
+#: widgets/widget-flickr.php:120
+msgid "User Set"
+msgstr ""
+
+#: widgets/widget-flickr.php:121
+msgid "All"
+msgstr ""
+
+#: widgets/widget-flickr.php:122
+msgid "All Tag"
+msgstr ""
+
+#: widgets/widget-flickr.php:123
+msgid "Group"
+msgstr ""
+
+#: widgets/widget-flickr.php:127
+msgid "User ID:"
+msgstr ""
+
+#: widgets/widget-flickr.php:129
+msgid "This would be a Flickr photostream ID. Eg: 48531931%40N03, where %40 is replaced for @"
+msgstr ""
+
+#: widgets/widget-flickr.php:133
+msgid "User Set ID:"
+msgstr ""
+
+#: widgets/widget-flickr.php:135
+msgid "If source is User Set, enter your User set Id."
+msgstr ""
+
+#: widgets/widget-flickr.php:139
+msgid "Tag:"
+msgstr ""
+
+#: widgets/widget-flickr.php:141
+msgid "If source is User Tag or All Tag, enter a tag name. Eg: nature"
+msgstr ""
+
+#: widgets/widget-flickr.php:145
+msgid "Group ID:"
+msgstr ""
+
+#: widgets/widget-flickr.php:147
+msgid "If source is Group, enter a Group ID. Example, 92076845@N00"
+msgstr ""
+
+#: widgets/widget-flickr.php:150
+msgid "Number of photos to show:"
+msgstr ""
+
+#: widgets/widget-flickr.php:152
+msgid "(at most 10)"
+msgstr ""
+
+#: widgets/widget-flickr.php:154
+msgid "Display Random?"
+msgstr ""
+
+#: widgets/widget-flickr.php:156
+msgid "If unchecked, it will show latest photos."
+msgstr ""
+
+#: widgets/widget-flickr.php:158
+msgid "Text to appear before gallery:"
+msgstr ""
+
+#: widgets/widget-flickr.php:160
+msgid "You can use basic HTML here."
+msgstr ""
+
+#: widgets/widget-minifolio.php:11
+msgid "Show a mini portfolio from post featured images."
+msgstr ""
+
+#: widgets/widget-minifolio.php:13
+msgid "NewsPlus Mini Folio"
+msgstr ""
+
+#: widgets/widget-minifolio.php:32 widgets/widget-recent-posts.php:33
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/widget-minifolio.php:108 widgets/widget-popular-posts.php:160
+#: widgets/widget-recent-posts.php:159
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/widget-minifolio.php:110
+msgid "Enter number of posts to show"
+msgstr ""
+
+#: widgets/widget-minifolio.php:112 widgets/widget-popular-posts.php:168
+#: widgets/widget-recent-posts.php:167
+msgid "Cat IDs to exclude or include:"
+msgstr ""
+
+#: widgets/widget-minifolio.php:115 widgets/widget-popular-posts.php:171
+#: widgets/widget-recent-posts.php:170
+msgid "Category IDs, separated by commas. Eg: 3,6,7 to include. Or -3,-6,-7 to exclude."
+msgstr ""
+
+#: widgets/widget-popular-posts.php:11
+msgid "List popular posts based on most commented."
+msgstr ""
+
+#: widgets/widget-popular-posts.php:13
+msgid "NewsPlus Popular Posts"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:33
+msgid "Popular Posts"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:162 widgets/widget-recent-posts.php:161
+msgid "(at most 15)"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:164 widgets/widget-recent-posts.php:163
+msgid "Posts offset"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:166 widgets/widget-recent-posts.php:165
+msgid "Provide an offset number to which you wish to skip the posts."
+msgstr ""
+
+#: widgets/widget-popular-posts.php:173 widgets/widget-recent-posts.php:172
+msgid "Hide Thumbnails?"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:175 widgets/widget-recent-posts.php:174
+msgid "If unchecked, it will show post thumbnails."
+msgstr ""
+
+#: widgets/widget-recent-posts.php:11
+msgid "List recent posts with thumbnails from custom categories."
+msgstr ""
+
+#: widgets/widget-recent-posts.php:13
+msgid "NewsPlus Recent Posts"
+msgstr ""
+
+#: widgets/widget-social-links.php:11
+msgid "Social networking icons widget."
+msgstr ""
+
+#: widgets/widget-social-links.php:13
+msgid "NewsPlus Social Icons"
+msgstr ""
+
+#: widgets/widget-social-links.php:229
+msgid "Twitter"
+msgstr ""
+
+#: widgets/widget-social-links.php:233
+msgid "Full URL of Twitter profile"
+msgstr ""
+
+#: widgets/widget-social-links.php:237
+msgid "Facebook"
+msgstr ""
+
+#: widgets/widget-social-links.php:241
+msgid "Full URL of Facebook profile"
+msgstr ""
+
+#: widgets/widget-social-links.php:245
+msgid "LinkedIn"
+msgstr ""
+
+#: widgets/widget-social-links.php:249
+msgid "Full URL to LinkedIn Profile"
+msgstr ""
+
+#: widgets/widget-social-links.php:252
+msgid "Google+"
+msgstr ""
+
+#: widgets/widget-social-links.php:256
+msgid "Full URL to Google+ Profile"
+msgstr ""
+
+#: widgets/widget-social-links.php:259
+msgid "Yahoo"
+msgstr ""
+
+#: widgets/widget-social-links.php:263
+msgid "Full URL to Yahoo! profile"
+msgstr ""
+
+#: widgets/widget-social-links.php:267
+msgid "Delicious"
+msgstr ""
+
+#: widgets/widget-social-links.php:271
+msgid "Full URL to Delicious Profile"
+msgstr ""
+
+#: widgets/widget-social-links.php:275
+msgid "Flickr"
+msgstr ""
+
+#: widgets/widget-social-links.php:279
+msgid "Full URL of Flickr Photostream"
+msgstr ""
+
+#: widgets/widget-social-links.php:283
+msgid "Skype"
+msgstr ""
+
+#: widgets/widget-social-links.php:287
+msgid "Full URL to Skype Profile"
+msgstr ""
+
+#: widgets/widget-social-links.php:291
+msgid "Vimeo"
+msgstr ""
+
+#: widgets/widget-social-links.php:295
+msgid "Full URL to Vimeo Profile"
+msgstr ""
+
+#: widgets/widget-social-links.php:299
+msgid "YouTube"
+msgstr ""
+
+#: widgets/widget-social-links.php:303
+msgid "Full URL to YouTube Profile"
+msgstr ""
+
+#: widgets/widget-social-links.php:307
+msgid "Pinterest"
+msgstr ""
+
+#: widgets/widget-social-links.php:311
+msgid "Full URL to Pinterest"
+msgstr ""
+
+#: widgets/widget-social-links.php:315
+msgid "VK"
+msgstr ""
+
+#: widgets/widget-social-links.php:319
+msgid "Full URL to VK"
+msgstr ""
+
+#: widgets/widget-social-links.php:323
+msgid "Tumblr"
+msgstr ""
+
+#: widgets/widget-social-links.php:327
+msgid "Full URL to Tumblr"
+msgstr ""
+
+#: widgets/widget-social-links.php:331
+msgid "Sound Cloud"
+msgstr ""
+
+#: widgets/widget-social-links.php:335
+msgid "Full URL to Sound Cloud"
+msgstr ""
+
+#: widgets/widget-social-links.php:339
+msgid "Xing"
+msgstr ""
+
+#: widgets/widget-social-links.php:343
+msgid "Full URL to Xing"
+msgstr ""
+
+#: widgets/widget-social-links.php:347
+msgid "Instagram"
+msgstr ""
+
+#: widgets/widget-social-links.php:351
+msgid "Full URL to Instagram"
+msgstr ""
+
+#: widgets/widget-social-links.php:355
+msgid "Vine"
+msgstr ""
+
+#: widgets/widget-social-links.php:359
+msgid "Full URL to Vine"
+msgstr ""
+
+#: widgets/widget-social-links.php:363
+msgid "Reddit"
+msgstr ""
+
+#: widgets/widget-social-links.php:367
+msgid "Full URL to Reddit"
+msgstr ""
+
+#: widgets/widget-social-links.php:371
+msgid "E-Mail"
+msgstr ""
+
+#: widgets/widget-social-links.php:375
+msgid "Your email address with mailto prefix. Example: mailto: you@yoursite.com"
+msgstr ""
+
+#: widgets/widget-social-links.php:379
+msgid "RSS"
+msgstr ""
+
+#: widgets/widget-social-links.php:383
+msgid "Optional RSS URL. If left blank, default rss2 URL will be used."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "NewsPlus Shortcodes"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Shortcodes and widgets for the NewsPlus WordPress theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Saurabh Sharma"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/SaurabhSharma"
+msgstr ""
